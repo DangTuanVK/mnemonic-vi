@@ -1,0 +1,6 @@
+# Private development files (has its own git repo)
+dev/
+
+# Python
+__pycache__/
+*.pyc
